@@ -1,4 +1,6 @@
 <h2>Leetcode_Python Submission Links</h2>
+Link to Leetcode Profile:<a href="https://leetcode.com/gridAditya/">gridAditya</a><br><br>
+
 1: <a href="https://leetcode.com/submissions/detail/1155431567/">Two Sum</a><br>
 2: <a href="https://leetcode.com/submissions/detail/1155432490/">Contains Duplicate</a><br>
 3: <a href="https://leetcode.com/submissions/detail/1155443029/">Best Time to Buy and Sell Stock</a><br>
