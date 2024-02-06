@@ -13,8 +13,8 @@
 12: <a href="https://leetcode.com/submissions/detail/1156263568/">Linked List Cycle</a><br>
 13: <a href="https://leetcode.com/submissions/detail/1156271558/">Container with most water</a><br>
 14: <a href="https://leetcode.com/submissions/detail/1156278957/">Find Minimum in rotated sorted array</a><br>
-15: <a href="https://leetcode.com/submissions/detail/1156278957/">Longest Repeating Character Replacement</a><br>
-16: <a href="https://leetcode.com/submissions/detail/1156278957/">Longest Substring Without Repeating Characters</a><br>
+15: <a href="https://leetcode.com/submissions/detail/1156322655/">Longest Repeating Character Replacement</a><br>
+16: <a href="https://leetcode.com/submissions/detail/1156326172/">Longest Substring Without Repeating Characters</a><br>
 17: <a href="https://leetcode.com/submissions/detail/1156371177/">Number of Islands</a><br>
 18: <a href="https://leetcode.com/submissions/detail/1156459041/">Remove Nth Node from the End of the List</a><br>
 19: <a href="https://leetcode.com/submissions/detail/1157233313/">Palindromic Substring</a><br>
